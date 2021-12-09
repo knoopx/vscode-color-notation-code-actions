@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+		"target": "es2020",
+		"outDir": "out",
+		"lib": [
+			"ES2020"
+		]
+	},
+	"exclude": [
+		"node_modules"
+	],
+	"include": [
+		"src",
+		"__tests__"
+	]
+}
